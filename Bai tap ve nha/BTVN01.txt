@@ -1,0 +1,12 @@
+Khách hàng:
+ - Xem danh sách sản phẩm
+ - Xem chi tiết một sản phẩm
+ - Thêm sản phẩm vào giỏ hàng
+ - Xem danh sách vật phẩm trong giỏ hàng
+ - Cập nhật giỏ hàng (loại bỏ, cập nhật số lượng)
+ - Đăng ký tài khoản
+Khách hàng đã đăng nhập:
+ - Đặt hàng và tính tiền
+ - Chọn phiếu đặt hàng
+ - Nhập thông tin người nhận hàng
+ - Nhập thông tin thanh toán giao dịch
